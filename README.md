@@ -1,0 +1,33 @@
+<!-- 💙 PROFILE CARD STYLE START -->.
+<div align="center" style="background-color:#e6f0ff; padding: 20px; border-radius: 10px;">
+
+  <h1>🎮 Hi there, I'm Dov 👋</h1>
+  <h3 style="color:#0a66c2;">A Passionate Game Developer & Software Engineer</h3>
+
+  
+
+  <hr style="border: none; border-top: 2px solid #0a66c2; width: 50%; margin: 20px auto;" />
+
+  <h3>💬 Connect with me</h3>
+  <p>(Links not active in preview)</p>
+  <p>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  </p>
+
+  <hr style="border: none; border-top: 2px solid #0a66c2; width: 50%; margin: 20px auto;" />
+
+  <h3>🧰 Languages & Tools</h3>
+  <p>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>  
+  </p>
+
+  <hr style="border: none; border-top: 2px solid #0a66c2; width: 50%; margin: 20px auto;" />
+
+
+</div>
+<!-- 💙 PROFILE CARD STYLE END -->
