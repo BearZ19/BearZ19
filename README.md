@@ -9,12 +9,15 @@
   <hr style="border: none; border-top: 2px solid #0a66c2; width: 50%; margin: 20px auto;" />
 
   <h3>💬 Connect with me</h3>
-  <p>(Links not active in preview)</p>
-  <p>
+<p>
+  <a href="https://www.linkedin.com/in/dov-remes-270173362/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://dovs-games.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"/>
-  </p>
+  </a>
+</p>
 
   <hr style="border: none; border-top: 2px solid #0a66c2; width: 50%; margin: 20px auto;" />
 
