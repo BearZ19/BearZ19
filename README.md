@@ -2,7 +2,7 @@
 <div align="center" style="background-color:#e6f0ff; padding: 20px; border-radius: 10px;">
 
   <h1>🎮 Hi there, I'm Dov 👋</h1>
-  <h3 style="color:#0a66c2;">A Passionate Game Developer & Software Engineer</h3>
+  <h3 style="color:#0a66c2;">A Passionate Game & Software Developer</h3>
 
   
 
